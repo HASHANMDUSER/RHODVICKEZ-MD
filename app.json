@@ -8,9 +8,9 @@
     "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "wgpFwRyQ#Spykq-OeRUmPU8A0Nfo50N-Mwr1g7RTp13Co4_1lGEU",
       "required": true,
-      "value": ""
+      "value": "wgpFwRyQ#Spykq-OeRUmPU8A0Nfo50N-Mwr1g7RTp13Co4_1lGEU"
     },  
     
     "ALIVE_IMG": {
@@ -22,7 +22,7 @@
     "LIVE_MSG": {
       "description": "paste your alive message hear.",
       "required": false,
-      "value": "> ✦RHODVICKEZ MD✦ ACTIVE AND ALIVE⚡"
+      "value": "> ✦HASHAN MD✦ ACTIVE AND ALIVE⚡"
     },
     
     "PREFIX": {
@@ -42,25 +42,25 @@
     "ALWAYS_ONLINE": {
       "description": "Make it true if want always online.",
       "required": false,
-      "value": "false"  
+      "value": "true"  
     },    
   
     "AUTO_VOICE": {
       "description": "Make it true if want automatic voice reply .",
       "required": false,
-      "value": "false"
+      "value": "true"
     }, 
 
     "AUTO_REPLY": {
       "description": "Make it true if you want automatic reply.",
       "required": false,
-      "value": "false"
+      "value": "true"
     }, 
 
     "AUTO_STICKER": {
       "description": "Make it true if you want automatic sticker.",
       "required": false,
-      "value": "false"
+      "value": "true"
     }, 
 
 
@@ -73,13 +73,13 @@
     "AUTO_STATUS_REPLY": {
       "description": "Make it true for auto reply msg on status seen.",
       "required": true,
-      "value": "false"
+      "value": "true"
     }, 
 
     "AUTO_STATUS__MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*🎉👀 Seen by Rhodvick Tech🚀🔥*"
+      "value": "*🎉👀 Seen by Hashan Tech🚀🔥*"
     }, 
 
     "OWNER_NAME": {
@@ -91,7 +91,7 @@
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "254115408870"
+      "value": "94715865463"
 
     }, 
 
